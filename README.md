@@ -22,7 +22,7 @@ I’m Udaya Somanna, a dynamic Full-Stack Developer with a passion for translati
 
 ## 💼 Professional Experience
 
-### 👨‍💻 Dot Net Developer — *Andaze Ltd*  
+### 👨‍💻 SDE | Dot Net Developer — *Andaze Ltd*  
 **Jan 2024 – Present**  
 - Building robust applications using the .NET framework.
 - Collaborating with teams to deliver scalable client-focused solutions.
