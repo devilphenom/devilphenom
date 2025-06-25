@@ -2,7 +2,7 @@
 
 **Passionate Full-Stack Developer** | Python | Java | MERN | React.js | MongoDB | MySQL | Docker
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)]((https://www.linkedin.com/in/uday-shetty-yes-its-me/))
 [![Gmail](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:udayas072001@gmail.com)
 
 ---
