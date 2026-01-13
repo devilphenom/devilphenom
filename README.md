@@ -67,6 +67,3 @@ I’m always open to collaborating, contributing to open source, or exploring ex
 > _"Code is the canvas, logic the paint — let's build something remarkable."_
 
 ---
-
-📌 *Pro Tip*: Pin your top 3–4 projects with README docs/screenshots/demos to shine on your profile.
-
